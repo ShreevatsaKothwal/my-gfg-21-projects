@@ -81,7 +81,7 @@ The system handles various query types:
 
 ```
 DAY 15/
-├── Assignment-Text2SQL via Prompt Engineering.ipynb  # Main notebook
+├── Text2SQL via Prompt Engineering.ipynb  # Main notebook
 ├── employees.db                           # SQLite database
 ├── Employees.csv                          # Employee data
 ├── Manager.csv                            # Manager data
