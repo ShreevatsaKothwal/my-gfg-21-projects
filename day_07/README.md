@@ -20,9 +20,8 @@ To demonstrate the importance of feature engineering by building and comparing t
 
 ```
 Day_07/
-├── README.md                                                                # Project documentation
-├── 7_Preventing_Customer_Churn_Local.ipynb                                  # Main tutorial notebook
-├── 7_Preventing_Customer_Churn_with_Feature_Transformation-Copy1.ipynb      # Alternative implementation
+├── README.md                                                                # Project documentation                               
+├── 7_Preventing_Customer_Churn_with_Feature_Transformation.ipynb            # Main tutorial notebook
 ├── Assignment_Solution.ipynb                                                # Assignment solution notebook
 └── data/
     └── WA_Fn-UseC_-Telco-Customer-Churn.csv                                 # Customer churn dataset
