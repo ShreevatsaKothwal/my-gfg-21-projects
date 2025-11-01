@@ -74,10 +74,10 @@ This project demonstrates an end-to-end Intelligent Document Processing (IDP) pi
 ```
 DAY 16/
 ├── Intelligent_Document_processing.ipynb  # Main notebook
-├── processed/                            # Preprocessed images
-├── tesseract_output/                     # OCR text files
-├── json_output/                          # Structured results
-└── README.md                            # This file
+├── processed/                             # Preprocessed images
+├── tesseract_output/                      # OCR text files
+├── json_output/                           # Structured results
+└── README.md                              # This file
 ```
 
 ## 🌟 Real-World Applications
