@@ -1,4 +1,4 @@
-# gfg-21-days-ML-DL-GenAI-projects
+# my-gfg-21-projects
 21 GFG hands-on projects in Machine Learning, Deep Learning, and Generative AI
 
 ---
